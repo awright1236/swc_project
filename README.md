@@ -1,4 +1,7 @@
 # Software Carpentry Project
+
+![SWC image](https://software-carpen%20southwestern%20indian%20ptry.org/)
+
 sample repository for swc
 
 ## install
