@@ -1,6 +1,6 @@
 # Software Carpentry Project
 
-![SWC image](https://software-carpen%20southwestern%20indian%20ptry.org/)
+![SWC image](https://potterzot.com/2019-09-25-unm/assets/img/swc-icon-blue.svg)
 
 sample repository for swc
 
