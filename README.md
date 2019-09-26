@@ -18,3 +18,6 @@ Just f-ing learn, dude!
 ```{r}
 library(ggplot2)
 ```
+```{python}
+import pandas as pd
+'''
